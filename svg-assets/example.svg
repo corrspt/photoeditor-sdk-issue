@@ -1,0 +1,6 @@
+<svg width='500px' height='500px'>
+  <defs>
+    <linearGradient x1="0%" x2="100%" y1="0%" y2="100%" spreadMethod="pad" id="weld1Fill"><stop offset="0%" stop-color="#efdcb6"></stop><stop offset="100%" stop-color="#d79290"></stop></linearGradient>
+  </defs>
+  <path style="" fill="url(#weld1Fill)" stroke="#222" stroke-width="3px" stroke-linecap="square" fill-opacity="0.93" d="M100 0C100 -30 -100 -30 -100 0C-80 72 -25 150 0 150C25 150 80 72 100 0Z"></path>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300px" height="300px" viewBox="0 0 300 300">
+  <defs>
+    <linearGradient id="weldObject" spreadMethod="pad" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#fff"/>
+      <stop offset="100%" stop-color="#ddd"/>
+    </linearGradient>
+  </defs>
+  <g preserveAspectRatio="xMinYMin meet" transform="translate(255 170.5) scale(1)" width="100%">
+    <g>
+      <g style="display: none;" transform="translate(-10 -90)">
+        <path d="M100 0C100 -30 -100 -30 -100 0C-80 72 -25 150 0 150C25 150 80 72 100 0Z" fill="url(#weld1Fill)" fill-opacity="0.93" stroke="#222" stroke-linecap="square" stroke-width="3px" style=""/>
+      </g>
+      <g style="" transform="translate(-110 -30)">
+        <path d="M-140 -80L78.65956430809824 -80L81.31114395597166 -67.52529855093444A60 60 0 0 0 140 -20L140 20A60 60 0 0 0 81.31114395597166 67.52529855093444L78.65956430809824 80L-140 80 L-140 -80" stroke="#222" stroke-linecap="square" stroke-width="2px" style="" fill="url(#weldObject) #eee"/>
+      </g>
+    </g>
+  </g>
+</svg>
